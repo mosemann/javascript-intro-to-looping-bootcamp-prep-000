@@ -15,5 +15,6 @@ function maybeTrue() {
 }
 
 function doWhileLoop(array) {
-  do {array.shift
+  do {array.shift()}
+  while 
 }
